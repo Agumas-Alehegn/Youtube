@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding-top: 60px;
+    background-color: rgb(250, 250, 250);
+    padding-left:76px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #212529;
+    font-family:Roboto,Arial;
+}
+@media(min-width:1000px){
+    body{
+        font-size: 14px;
+    }
+}
+
+ p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+   
+ }
+ a{
+    text-decoration: none;
+   }
+   a:visited{
+    color: black;
+   }
